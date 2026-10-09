@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Calculator",
+  "description": "High-performance glassmorphism calculator app with standard, scientific, currency, mass, tip, and discount calculators, custom themes, and persistent calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
